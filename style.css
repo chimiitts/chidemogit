@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    background-color: orange;
+    text-align: center;
+}
+.m {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.lo {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    text-align: center;
+}
+.hi {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    margin-top: 10px;
+}
+.ha {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    background-color: deeppink;
+}
+.with {
+    color: red;
+    background-color: yellow;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
