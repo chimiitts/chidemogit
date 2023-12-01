@@ -1,0 +1,39 @@
+body, * {
+    margin: 0;
+    padding: 0;
+}  
+.header {
+    background-color: rgb(182, 54, 75);
+    height:150px;
+    color: white;
+}
+.menu {
+    background-color: aqua;
+    height:100px;
+    color: white;
+}
+.body {
+    display:flex;
+    height: 500px;
+    color: white;
+
+}
+.body_left {
+    background-color: darkolivegreen;
+    width:20%;
+
+
+
+}
+.body_content {
+    background-color: darkgreen;
+    width:60%;
+}
+.body_right {
+    background-color: coral;
+    width: 20%;
+}
+.footer {
+    background-color: dimgrey;
+    height: 100px;
+}
